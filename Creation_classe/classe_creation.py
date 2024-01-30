@@ -1,5 +1,6 @@
 class Cake:
-   flavor = "chocolate"
+    flavor = "chocolate"
 
-    def cut_in_part(self):
-        print("Le gateaux est coupé en 4 parties")
+    def cut(self):
+
+        print("Le gateaux et coupé en 4 parties")
